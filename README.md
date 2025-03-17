@@ -1,7 +1,7 @@
   ## Desafio de lógica do curso de Formação Lógica de Programação da DIO!
   Instruções:
   
-  O Que deve ser utilizado
+   O Que deve ser utilizado
 
   - Variáveis
   - Operadores
