@@ -1,5 +1,5 @@
 // Desafio classificador de nível de Herói
-let nomeHeroi = ["Jefin", "Maikon", "Aspas", "DGGames"];
+let nomeHeroi = ["Marcia", "Maikon", "Aspas", "Leo"];
 let xp = [3504, 4567, 100000, 678];
 
 for ( i = 0; i < nomeHeroi.length; i++) {
